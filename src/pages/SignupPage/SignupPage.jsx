@@ -45,14 +45,5 @@ class SignupPage extends Component {
 
 }
 
-// const SignupPage = (props) => {
-//   return (
-//     <div>
-//       <div>
-//
-//       </div>
-//     </div>
-//   )
-// }
 
 export default SignupPage
